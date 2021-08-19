@@ -3,3 +3,9 @@ hejsan världen!
 Dagens git-kommandon:
 - fetch
     uppdaterar vår lokala chache av remote git-repo
+- push
+    Tar lokala ändringar och `pushar` (flyttar) dem till vår remote 
+    använd -u för att sätta en upstream
+    ex: `push -u origin dev`
+    ex med annat namn på remote:
+    > `push -u origin dev:anotherName` 

@@ -1,1 +1,5 @@
 hejsan världen!
+
+Dagens git-kommandon:
+- fetch
+    uppdaterar vår lokala chache av remote git-repo

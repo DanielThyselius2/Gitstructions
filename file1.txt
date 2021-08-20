@@ -12,3 +12,6 @@ Dagens git-kommandon:
     ex: `push -u origin dev`
     ex med annat namn på remote:
     > `push -u origin dev:anotherName` 
+- pull
+    En shorthand för `git fetch` sen `git merge` 
+    använd `git pull --rebase` för att göra en rebase i stället för en merge

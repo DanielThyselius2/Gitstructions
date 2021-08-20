@@ -15,3 +15,7 @@ Dagens git-kommandon:
 - pull
     En shorthand för `git fetch` sen `git merge` 
     använd `git pull --rebase` för att göra en rebase i stället för en merge
+- commit
+    commits the changes in staging area
+    använd --amend för att ändra senaste commit (lokalt)
+ 
